@@ -4,6 +4,8 @@ This code renders a map of the UK using [Leaflet.js](https://leafletjs.com/), an
 
 It was created by a group of people during #OpenDataDay at Open Data Manchester
 
+![screenshot.png](screenshot.png)
+
 ## Usage
 
 1. `python3 -m venv venv`
