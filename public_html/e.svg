@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="512.000000pt"
+   height="512.000000pt"
+   viewBox="0 0 512.000000 512.000000"
+   preserveAspectRatio="xMidYMid meet"
+   id="svg168"
+   sodipodi:docname="embraer-erj-icon-512.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <defs
+     id="defs172" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="748"
+     inkscape:window-height="480"
+     id="namedview170"
+     showgrid="false"
+     inkscape:zoom="0.34570313"
+     inkscape:cx="341.33333"
+     inkscape:cy="341.33333"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg168" />
+  <metadata
+     id="metadata162">
+Created by potrace 1.15, written by Peter Selinger 2001-2017
+<rdf:RDF>
+  <cc:Work
+     rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type
+       rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+  </cc:Work>
+</rdf:RDF>
+</metadata>
+  <g
+     transform="matrix(-0.1,0,0,0.1,512,0)"
+     id="g166"
+     style="fill:#000000;stroke:none">
+    <path
+       d="m 2509,5083 c -90,-104 -148,-333 -169,-673 -5,-91 -10,-475 -10,-855 V 2865 L 1552,2501 C 952,2221 768,2130 742,2104 c -31,-33 -32,-36 -32,-124 0,-53 4,-90 10,-90 5,0 126,27 267,60 142,33 393,83 558,111 l 300,51 175,-11 c 96,-6 203,-14 238,-17 l 62,-6 v -254 c 0,-140 -3,-254 -7,-254 -5,1 -17,15 -28,32 -23,37 -47,46 -133,47 -54,1 -66,-2 -87,-24 l -25,-24 v -272 c 0,-278 7,-346 46,-421 14,-26 19,-28 79,-28 h 65 l 28,49 c 27,48 28,49 54,35 22,-12 28,-23 33,-71 13,-109 46,-266 70,-329 l 24,-63 -52,-19 c -29,-11 -142,-50 -252,-87 -132,-45 -209,-77 -227,-93 -31,-29 -53,-91 -63,-175 l -6,-57 h 33 c 18,0 157,20 308,45 151,25 279,44 286,41 6,-2 17,-24 23,-49 18,-64 47,-107 71,-107 24,0 53,43 71,107 6,25 17,47 23,49 7,3 135,-16 286,-41 151,-25 290,-45 308,-45 h 33 l -6,57 c -10,84 -32,146 -63,175 -18,17 -103,50 -257,103 -126,43 -240,82 -252,86 l -22,8 24,64 c 24,64 57,220 70,330 5,48 11,59 33,71 26,14 27,13 54,-35 l 28,-49 h 65 c 61,0 65,1 80,30 36,70 45,148 45,423 v 268 l -25,24 c -21,22 -33,25 -87,24 -86,-1 -110,-10 -133,-47 -11,-17 -23,-31 -27,-32 -5,0 -8,114 -8,254 v 254 l 63,6 c 34,3 141,11 237,17 l 175,11 300,-51 c 165,-28 416,-78 558,-111 141,-33 262,-60 267,-60 6,0 10,37 10,90 0,88 -1,91 -32,124 -26,26 -210,117 -810,397 l -778,364 v 690 c 0,861 -11,1056 -70,1288 -37,144 -114,277 -160,277 -10,0 -33,-17 -51,-37 z"
+       id="path164"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
